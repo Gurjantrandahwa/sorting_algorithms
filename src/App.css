@@ -1,0 +1,43 @@
+.app {
+    margin: auto;
+}
+
+
+.array-container {
+    position: absolute;
+
+    display: flex;
+    margin: auto;
+    justify-content: center;
+
+    min-height: 60vh;
+    flex-direction: row;
+}
+
+.array-bar {
+    /* background-color: #417D7A; */
+    width: 10px;
+    margin: 10px 2px;
+
+    /* background-color: turquoise; */
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+button {
+    color: white;
+
+    background-color: #1A3C40;
+    border: none;
+    margin: 10px 10px;
+    border-radius: 4px;
+    padding: 10px;
+
+}
