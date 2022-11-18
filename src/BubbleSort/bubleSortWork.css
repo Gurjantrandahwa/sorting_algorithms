@@ -1,0 +1,32 @@
+
+.array-container {
+
+    min-height: 70vh;
+}
+
+.array-bar {
+    width: 10px;
+    margin: 50px 2px;
+    display: inline-block;
+
+}
+
+.footer {
+    position: absolute;
+    bottom: 5%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+button {
+    color: white;
+    background-color: #1A3C40;
+    border: none;
+    margin: 10px;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 18px;
+}
